@@ -1,0 +1,15 @@
+# Ambientes Virtuais (Pasta onde fica o Python instalado)
+venv/
+.venv/
+env/
+
+# Banco de Dados (Para não enviar os seus testes de produtos)
+*.db
+*.sqlite3
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Pastas do VS Code
+.vscode/
