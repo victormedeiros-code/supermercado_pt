@@ -16,7 +16,7 @@ Sistema de terminal desenvolvido em **Python** para gestão de inventário, util
 ## Como rodar o projeto
 
 1. **Clone o repositório:**
-   `git clone [URL_DO_REPOSITÓRIO]`
+   `git clone https://github.com/victormedeiros-code/supermercado_pt.git`
 
 2. **Crie um ambiente virtual:**
    `python -m venv venv`
