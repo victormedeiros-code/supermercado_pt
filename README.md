@@ -22,7 +22,7 @@ Sistema de terminal desenvolvido em **Python** para gestão de inventário, util
    `python -m venv venv`
 
 3. **Ative o venv:**
-   * No Windows: `.\venv\Scripts\activate`
+   * No Windows: `venv\Scripts\activate`
    * No Linux/Mac: `source venv/bin/activate`
 
 4. **Instale as dependências:**
